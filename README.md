@@ -1,7 +1,7 @@
 # MetashapePythonScripts
 Set of Python scripts for use with Agisoft Metashape. 
 
-The scripts held within this repository are meant as a learning tool. 
+The scripts held within this repository are meant as a learning tool and are very much a work in progress. 
 
 *"Single Action"* Scripts covers a single action and when combined it is possible to create a full workflow from project creation to the final output of a 3D model.
 
